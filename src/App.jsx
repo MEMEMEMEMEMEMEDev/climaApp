@@ -103,7 +103,7 @@ export default function App() {
               <ClimateItem props={data.daily[5]} state={data} />
             </div>
             <div className="app-content__today">
-              <span> ESTADÍSTICAS </span>
+              <span> WENA LO CABROOOOS </span>
             </div>
             <div className="app-content__grid">
               <div className="app-content__grid-wind">
